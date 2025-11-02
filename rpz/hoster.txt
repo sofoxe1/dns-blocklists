@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762048680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762077480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 01:58 UTC
-; Version: 2025.1102.0158.16
+; Last modified: 02 Nov 2025 09:58 UTC
+; Version: 2025.1102.0958.52
 ; Syntax: RPZ
-; Number of entries: 2748
+; Number of entries: 2730
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2368,30 +2368,12 @@ bigthomas.shop CNAME .
 *.bigthomas.shop CNAME .
 bizmovie.shop CNAME .
 *.bizmovie.shop CNAME .
-bookieboutique.shop CNAME .
-*.bookieboutique.shop CNAME .
 boundpeter.shop CNAME .
 *.boundpeter.shop CNAME .
-boutiqueond.shop CNAME .
-*.boutiqueond.shop CNAME .
-brazilbill.shop CNAME .
-*.brazilbill.shop CNAME .
-bstyledstore.shop CNAME .
-*.bstyledstore.shop CNAME .
-chicjolieboutiqueonline.shop CNAME .
-*.chicjolieboutiqueonline.shop CNAME .
-cielo-fashion.shop CNAME .
-*.cielo-fashion.shop CNAME .
 clubstrack.shop CNAME .
 *.clubstrack.shop CNAME .
-connysdress.shop CNAME .
-*.connysdress.shop CNAME .
-creamclothinginc.shop CNAME .
-*.creamclothinginc.shop CNAME .
 crossurl.shop CNAME .
 *.crossurl.shop CNAME .
-csdazzle.shop CNAME .
-*.csdazzle.shop CNAME .
 cubavalue.shop CNAME .
 *.cubavalue.shop CNAME .
 daisysfashions.shop CNAME .

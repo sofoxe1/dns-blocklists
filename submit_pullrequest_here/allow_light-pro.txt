@@ -1,5 +1,12 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# n-tv app: When blocked, a video starts again after a few seconds
+ad-ipd.sxp.smartclip.net
+des.smartclip.net
+te.technical-service.net
+te2.technical-service.net
+te.ip-prod.aws-cbc.cloud
+
 # https://github.com/hagezi/dns-blocklists/issues/7342
 # https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1970
 cdn.trackjs.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762050720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762079640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 02:32 UTC
-; Version: 2025.1102.0232.38
+; Last modified: 02 Nov 2025 10:34 UTC
+; Version: 2025.1102.1034.18
 ; Syntax: RPZ
-; Number of entries: 22464
+; Number of entries: 22456
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2158,8 +2158,6 @@ tracker.chdbits.co CNAME .
 *.tracker.chdbits.co CNAME .
 cineblog01.co CNAME .
 *.cineblog01.co CNAME .
-cinefun.co CNAME .
-*.cinefun.co CNAME .
 cinemagratis.co CNAME .
 *.cinemagratis.co CNAME .
 clicknupload.co CNAME .
@@ -8546,8 +8544,6 @@ cineblog01.delivery CNAME .
 *.cineblog01.delivery CNAME .
 tantifilm.delivery CNAME .
 *.tantifilm.delivery CNAME .
-cineblog01.democrat CNAME .
-*.cineblog01.democrat CNAME .
 altadefinizione.desi CNAME .
 *.altadefinizione.desi CNAME .
 hdmovie2.design CNAME .
@@ -9258,8 +9254,6 @@ tracker.computel.fr CNAME .
 *.tracker.computel.fr CNAME .
 cpasbien-torrents.fr CNAME .
 *.cpasbien-torrents.fr CNAME .
-cpasbientorrent.fr CNAME .
-*.cpasbientorrent.fr CNAME .
 darwine.fr CNAME .
 *.darwine.fr CNAME .
 sd-161673.dedibox.fr CNAME .
@@ -15256,8 +15250,6 @@ cestpasbien.org CNAME .
 *.cestpasbien.org CNAME .
 chdbits.org CNAME .
 *.chdbits.org CNAME .
-chilewarez.org CNAME .
-*.chilewarez.org CNAME .
 chinahdtv.org CNAME .
 *.chinahdtv.org CNAME .
 chinurarete-subs.org CNAME .

@@ -2234,13 +2234,6 @@
       }
     },
     {
-      "PK": "bookieboutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bookmark.com",
       "action": {
         "do": 0,
@@ -2256,13 +2249,6 @@
     },
     {
       "PK": "boundpeter.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "boutiqueond.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -2332,21 +2318,7 @@
       }
     },
     {
-      "PK": "brazilbill.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "brizy.site",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bstyledstore.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -2724,20 +2696,6 @@
       }
     },
     {
-      "PK": "chicjolieboutiqueonline.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cielo-fashion.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "city.tl",
       "action": {
         "do": 0,
@@ -2969,13 +2927,6 @@
       }
     },
     {
-      "PK": "connysdress.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "conohawing.com",
       "action": {
         "do": 0,
@@ -3012,13 +2963,6 @@
     },
     {
       "PK": "cprapid.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "creamclothinginc.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3068,13 +3012,6 @@
     },
     {
       "PK": "csb.app",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "csdazzle.shop",
       "action": {
         "do": 0,
         "status": 1

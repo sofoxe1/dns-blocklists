@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Nov 2025 01:29 UTC
-! Version: 2025.1102.0129.12
+! Last modified: 02 Nov 2025 09:30 UTC
+! Version: 2025.1102.0930.39
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1146,7 +1146,6 @@
 @@||botelink.com^
 @@||botemoda.com^
 @@||boudie.link^
-@@||boudoirads.cc^
 @@||app.box.com^
 @@||bp.cool^
 @@||on.bp.com^
@@ -1603,7 +1602,6 @@
 @@||coinbarlink.net^
 @@||coinbot.kr^
 @@||coinclix.co^
-@@||coki.me^
 @@||coklat.vip^
 @@||link.colborlight.com^
 @@||urlshort.allcrom.com.br^

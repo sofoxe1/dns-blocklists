@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Nov 2025 18:39 UTC
-! Version: 2025.1101.1839.47
+! Last modified: 02 Nov 2025 10:39 UTC
+! Version: 2025.1102.1039.46
 ! Syntax: AdBlock
-! Number of entries: 3401
+! Number of entries: 3397
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -449,7 +449,6 @@
 ||dns.bovat.net^
 ||adguard.boykevanvugt.nl^
 ||adguard2.boykevanvugt.nl^
-||dns.braene.com^
 ||dns.brahma.world^
 ||bravedns.com^
 ||dns.brembeck.cloud^
@@ -485,7 +484,6 @@
 ||unifi.carioka.com^
 ||dns.carson-family.com^
 ||dns.caspervk.net^
-||catchen121299.top^
 ||catdns.org^
 ||sg-119.cattery.work^
 ||alidns.cb1999.top^
@@ -553,7 +551,6 @@
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
 ||adguard.clawsucht.eu^
-||adguard.clawsucht.nrw^
 ||prdot.cldsrv.es^
 ||cleanbrowsing.org^
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
@@ -724,7 +721,6 @@
 ||dns.d4d.moe^
 ||dns.d8e.ru^
 ||dns.d94.xyz^
-||dns.daarrk.tech^
 ||dns.dallinbryce.com^
 ||fr.dalockd.net^
 ||dns.danamas.net^

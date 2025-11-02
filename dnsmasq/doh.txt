@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 18:39 UTC
-# Version: 2025.1101.1839.47
+# Last modified: 02 Nov 2025 10:39 UTC
+# Version: 2025.1102.1039.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3401
+# Number of entries: 3397
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -448,7 +448,6 @@ local=/botclassic.com/
 local=/dns.bovat.net/
 local=/adguard.boykevanvugt.nl/
 local=/adguard2.boykevanvugt.nl/
-local=/dns.braene.com/
 local=/dns.brahma.world/
 local=/bravedns.com/
 local=/dns.brembeck.cloud/
@@ -484,7 +483,6 @@ local=/d.carilagi.id/
 local=/unifi.carioka.com/
 local=/dns.carson-family.com/
 local=/dns.caspervk.net/
-local=/catchen121299.top/
 local=/catdns.org/
 local=/sg-119.cattery.work/
 local=/alidns.cb1999.top/
@@ -552,7 +550,6 @@ local=/stella.clae.net/
 local=/dns.clanless.ovh/
 local=/dns.clanto.cloud/
 local=/adguard.clawsucht.eu/
-local=/adguard.clawsucht.nrw/
 local=/prdot.cldsrv.es/
 local=/cleanbrowsing.org/
 local=/cvt-ic-us-adns-001.clearviewtechnology.net/
@@ -723,7 +720,6 @@ local=/d3vy.ru/
 local=/dns.d4d.moe/
 local=/dns.d8e.ru/
 local=/dns.d94.xyz/
-local=/dns.daarrk.tech/
 local=/dns.dallinbryce.com/
 local=/fr.dalockd.net/
 local=/dns.danamas.net/

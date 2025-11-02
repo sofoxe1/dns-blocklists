@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 18:39 UTC
-# Version: 2025.1101.1839.47
+# Last modified: 02 Nov 2025 10:39 UTC
+# Version: 2025.1102.1039.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3879
+# Number of entries: 3875
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -516,7 +516,6 @@
 0.0.0.0 dns.bovat.net
 0.0.0.0 adguard.boykevanvugt.nl
 0.0.0.0 adguard2.boykevanvugt.nl
-0.0.0.0 dns.braene.com
 0.0.0.0 dns.brahma.world
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
@@ -556,7 +555,6 @@
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.caspervk.net
-0.0.0.0 catchen121299.top
 0.0.0.0 catdns.org
 0.0.0.0 sg-119.cattery.work
 0.0.0.0 alidns.cb1999.top
@@ -642,7 +640,6 @@
 0.0.0.0 dns.clanless.ovh
 0.0.0.0 dns.clanto.cloud
 0.0.0.0 adguard.clawsucht.eu
-0.0.0.0 adguard.clawsucht.nrw
 0.0.0.0 prdot.cldsrv.es
 0.0.0.0 cleanbrowsing.org
 0.0.0.0 adult-filter-dns.cleanbrowsing.org
@@ -863,7 +860,6 @@
 0.0.0.0 dns.d4d.moe
 0.0.0.0 dns.d8e.ru
 0.0.0.0 dns.d94.xyz
-0.0.0.0 dns.daarrk.tech
 0.0.0.0 dns.dallinbryce.com
 0.0.0.0 fr.dalockd.net
 0.0.0.0 dns.danamas.net

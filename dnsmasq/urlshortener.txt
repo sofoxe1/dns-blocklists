@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 01:29 UTC
-# Version: 2025.1102.0129.12
+# Last modified: 02 Nov 2025 09:30 UTC
+# Version: 2025.1102.0930.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8913
+# Number of entries: 8911
 #
 local=/0.gp/
 local=/00m.in/
@@ -1191,7 +1191,6 @@ local=/bot.fi/
 local=/botelink.com/
 local=/botemoda.com/
 local=/boudie.link/
-local=/boudoirads.cc/
 local=/app.box.com/
 local=/bp.cool/
 local=/on.bp.com/
@@ -1657,7 +1656,6 @@ local=/cofe.io/
 local=/coinbarlink.net/
 local=/coinbot.kr/
 local=/coinclix.co/
-local=/coki.me/
 local=/coklat.vip/
 local=/link.colborlight.com/
 local=/urlshort.allcrom.com.br/

@@ -7,22 +7,32 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Nov 2025 10:39 UTC
-! Version: 2025.1101.1039.03
+! Last modified: 02 Nov 2025 10:40 UTC
+! Version: 2025.1102.1040.14
 ! Syntax: AdBlock
-! Number of entries: 426
+! Number of entries: 455
 !
 ||ns.00dani.me^
+||dns.0ooo.icu^
 ||httpdns.music.163.com^
 ||doh.18bit.cn^
 ||cloud.198.games^
 ||1and1-dns.de^
 ||233py.com^
+||dns.240527.xyz^
 ||doh.360.cn^
 ||3dns.eu^
+||dns.3wv.de^
 ||vpn.4-the.win^
+||doh.42l.fr^
 ||ns2.4netguides.org^
+||dns.7vpn.com^
+||dns.853852.xyz^
+||dns.886886886.xyz^
 ||8888.google^
+||dns.9999.sg^
+||doh.dns.apple.com.v.aaplimg.com^
+||dns.abdullahabas.de^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
@@ -46,6 +56,8 @@
 ||nsec.arnor.org^
 ||dns.artikel10.org^
 ||dandelionsprout.asuscomm.com^
+||dohtrial.att.net^
+||doh1.b-cdn.net^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||bazooki-infra.dev^
@@ -59,6 +71,7 @@
 ||nvi-dns.bitdefender.net^
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
+||dns-tls.bitwiseshift.net^
 ||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
 ||doh-fi.blahdns.com^
@@ -73,9 +86,13 @@
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||callies-online.site^
+||doh.captnemo.in^
 ||catdns.org^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
+||deic-lgb.anycast.censurfridns.dk^
+||deic-ore.anycast.censurfridns.dk^
+||dns.cert.ee^
 ||cfdjb.org^
 ||ibuki.cgnat.net^
 ||chaos-system.de^
@@ -88,8 +105,10 @@
 ||cloudflare-gateway.com^
 ||api.cloudflareclient.com^
 ||cloudflareresolve.com^
+||dns.cmrg.net^
 ||ns.nerdytechgeeks.co.za^
 ||sbdns.co.in^
+||dns.7sec.com.br^
 ||dns.weixin.qq.com.cn^
 ||commons.host^
 ||comss.one^
@@ -110,6 +129,7 @@
 ||dns.decloudus.com^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
+||doh.disconnect.app^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -126,6 +146,7 @@
 ||coe01.dnscry.pt^
 ||cph01.dnscry.pt^
 ||cvt01.dnscry.pt^
+||den01.dnscry.pt^
 ||sin03.dnscry.pt^
 ||sof01.dnscry.pt^
 ||syd02.dnscry.pt^
@@ -140,6 +161,7 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
+||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dns.dnswarden.com^
 ||doh.beauty^
@@ -196,6 +218,7 @@
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||moph.go.th^
 ||dns.google.com^
@@ -234,12 +257,14 @@
 ||opencdn.jomodns.com^
 ||joouddo.ru^
 ||dns.jupitrdns.com^
+||dns.keweon.center^
 ||dns1.klcd.eu^
 ||korzhov.dev^
 ||dart.kpsn.org^
 ||hdns.ksyun.com^
 ||landerbrauver.ru^
 ||lastentarvike.fi^
+||eu1.dns.lavate.ch^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||doh.libredns.gr^
@@ -318,6 +343,7 @@
 ||project-evoex.de^
 ||publicdnsserver.com^
 ||puredns.org^
+||dns-privacy.puregeni.us^
 ||dns.qq.com^
 ||httpdns.kg.qq.com^
 ||dns.weixin.qq.com^
@@ -325,6 +351,7 @@
 ||udns.weixin.qq.com^
 ||ns1.qquack.org^
 ||dns.quad9.net^
+||dns-nosec.quad9.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
@@ -366,6 +393,7 @@
 ||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
+||dns.t53.de^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||homenet.telecomitalia.it^
@@ -415,6 +443,7 @@
 ||paydns.wechatpay.cn^
 ||dns.weibo.cn^
 ||wikimedia-dns.org^
+||dns-1.wil.cloud^
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
 ||wyx.cloud^

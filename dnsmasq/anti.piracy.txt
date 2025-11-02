@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 02:32 UTC
-# Version: 2025.1102.0232.38
+# Last modified: 02 Nov 2025 10:34 UTC
+# Version: 2025.1102.1034.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11232
+# Number of entries: 11228
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1756,7 +1756,6 @@ local=/chihaya.de/
 local=/chihiro-subs.com/
 local=/chilebt.com/
 local=/chilecomparte.cl/
-local=/chilewarez.org/
 local=/chinahdtv.org/
 local=/chinurarete-subs.org/
 local=/choice1ip.tv/
@@ -1799,7 +1798,6 @@ local=/cineblog01.cx/
 local=/cineblog01.cymru/
 local=/cineblog01.cyou/
 local=/cineblog01.delivery/
-local=/cineblog01.democrat/
 local=/cineblog01.discount/
 local=/cineblog01.download/
 local=/cineblog01.energy/
@@ -1864,7 +1862,6 @@ local=/cineez.com/
 local=/cineflix.rip/
 local=/cineflix4k.net/
 local=/cinefound.com/
-local=/cinefun.co/
 local=/cinego.tv/
 local=/cinehub24.com/
 local=/cinema24.tv/
@@ -2135,7 +2132,6 @@ local=/cpasbien.to/
 local=/cpasbien-torrent.biz/
 local=/cpasbien-torrents.fr/
 local=/cpasbien3.pro/
-local=/cpasbientorrent.fr/
 local=/cpturbo.org/
 local=/crack.ms/
 local=/crack-cd.com/

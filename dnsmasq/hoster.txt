@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 01:58 UTC
-# Version: 2025.1102.0158.16
+# Last modified: 02 Nov 2025 09:58 UTC
+# Version: 2025.1102.0958.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1374
+# Number of entries: 1365
 #
 local=/000a.de/
 local=/000space.com/
@@ -303,10 +303,8 @@ local=/blogspot.tw/
 local=/blogspot.ug/
 local=/blogzet.com/
 local=/bo.gp/
-local=/bookieboutique.shop/
 local=/bookmark.com/
 local=/boundpeter.shop/
-local=/boutiqueond.shop/
 local=/boxmail.biz/
 local=/boxmode.io/
 local=/bplaced.de/
@@ -316,9 +314,7 @@ local=/bravehost.com/
 local=/bravenet.com/
 local=/bravepages.com/
 local=/bravesites.com/
-local=/brazilbill.shop/
 local=/brizy.site/
-local=/bstyledstore.shop/
 local=/bugs3.com/
 local=/builderall.net/
 local=/builtfree.org/
@@ -373,8 +369,6 @@ local=/chat.dj/
 local=/chat3.de/
 local=/chatpc.club/
 local=/chez.com/
-local=/chicjolieboutiqueonline.shop/
-local=/cielo-fashion.shop/
 local=/city.tl/
 local=/cityhotel.club/
 local=/cixx6.com/
@@ -444,7 +438,6 @@ local=/community24.eu/
 local=/comule.com/
 local=/comunidades.net/
 local=/comxa.com/
-local=/connysdress.shop/
 local=/conohawing.com/
 local=/cool.hn/
 local=/cool.lc/
@@ -452,7 +445,6 @@ local=/coolpage.biz/
 local=/corolain.ru/
 local=/cprapid.com/
 local=/sitebeat.crazydomains.com/
-local=/creamclothinginc.shop/
 local=/creatorlink.net/
 local=/crossurl.shop/
 local=/crypto-market-world.com/
@@ -460,7 +452,6 @@ local=/cryptofinancetrack.com/
 local=/cryptonight.net/
 local=/cs-clan.org/
 local=/csb.app/
-local=/csdazzle.shop/
 local=/ct8.pl/
 local=/ctempurl.com/
 local=/cubavalue.shop/
